@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [See the solution on Frontend Mentor](https://www.frontendmentor.io/solutions/statspreviewcard-Tsae_aH_P)
-- Live Site URL: [Visit the live site](https://hazel-black.github.io/Stats-Preview-Card-/)
+- Live Site URL: [Visit the live site](https://elated-engelbart-cce4e0.netlify.app/)
 
 ## My process
 
