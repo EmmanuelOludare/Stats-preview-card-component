@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See the solution on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsive-mobile-first-htmlcss-dVV_ck9Y9k)
+- Solution URL: [See the solution on Frontend Mentor](https://www.frontendmentor.io/solutions/statspreviewcard-Tsae_aH_P)
 - Live Site URL: [Visit the live site](https://hazel-black.github.io/Stats-Preview-Card-/)
 
 ## My process
